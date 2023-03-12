@@ -1,0 +1,33 @@
+--------------------------------------------------------------------
+Oda Numarasi:23
+Musterinin Adi-Soyadi:Irem Guven
+Kisi Sayisi:2
+Toplam Tutar:9600TLGiris Tarihi:12:3:2023
+Cikis Tarihi:14:4:2023
+--------------------------------------------------------------------
+Oda Numarasi:88
+Musterinin Adi-Soyadi:Durukan Cetin
+Kisi Sayisi:2
+Toplam Tutar:3900TLGiris Tarihi:25:3:2023
+Cikis Tarihi:8:4:2023
+--------------------------------------------------------------------
+Oda Numarasi:21
+Musterinin Adi-Soyadi:Durukan Cetin
+Kisi Sayisi:2
+Toplam Tutar:600TL
+Giris Tarihi:14:2:2023
+Cikis Tarihi:16:2:2023
+--------------------------------------------------------------------
+Oda Numarasi:22
+Musterinin Adi-Soyadi:Emrecan Äetin
+Kisi Sayisi:2
+Toplam Tutar:600TL
+Giris Tarihi:14:2:2023
+Cikis Tarihi:16:2:2023
+--------------------------------------------------------------------
+Oda Numarasi:12
+Musterinin Adi-Soyadi:Durukan Cetün
+Kisi Sayisi:2
+Toplam Tutar:9000TL
+Giris Tarihi:12:12:2022
+Cikis Tarihi:12:1:2023
