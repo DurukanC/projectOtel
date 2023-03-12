@@ -90,7 +90,7 @@ void yeniMusteriEkleme(odaBilgileri *odalar){
 		printf("Maalesef.Kayit yaptirmak istediginiz oda %d:%d:%d tarihine kadar doludur.",odalar[sorgulanacakOda-1].cikisTarihi.gun,odalar[sorgulanacakOda-1].cikisTarihi.ay,odalar[sorgulanacakOda-1].cikisTarihi.yil);
 		return;
 	}
-	odalar[sorgulanacakOda-1].odaNumarasi=sorgulanacakOda;//ODA NUMARASÝ ATANDÝ.
+	odalar[sorgulanacakOda-1].odaNumarasi=sorgulanacakOda;//ODA NUMARASÄ° ATANDÄ°.
 	printf("Lutfen ad ve soyad bilgilerinizi sirasiyla giriniz:");
 	scanf("%s%s",&musteriAdi,&musteriSoyadi);
 	odalar[sorgulanacakOda-1].musteri.musteriAdi=(char*)malloc(sizeof(char)*strlen(musteriAdi)+1);
@@ -173,8 +173,8 @@ int main(){
 	int belirlenenSifre=123456,kullanicininGirdigiSifre,odaNumarasi;
 	yetkiSeviyeleri kullaniciYetkisi;
 	char ch;
-	odaBilgileri *odaDizisi;//tüm bilgiler burada tutulacak.
-	odaDizisi=(odaBilgileri*)calloc(ODA_SAYISI,sizeof(odaBilgileri));//dinamik þekilde oluþturuldu.
+	odaBilgileri *odaDizisi;//tÃ¼m bilgiler burada tutulacak.
+	odaDizisi=(odaBilgileri*)calloc(ODA_SAYISI,sizeof(odaBilgileri));//dinamik ÅŸekilde oluÅŸturuldu.
 	printf("\t\t\tOtel Rezarvasyon Sistemine Hosgeldiniz...\n");
 	printf("Lutfen burada calisiyorsaniz sifrenizi giriniz:");
 	scanf("%d",&kullanicininGirdigiSifre);
